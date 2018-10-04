@@ -48,11 +48,11 @@
 						</div>
 					</div>
 					<div class="col-md-7 animate-box">
-						<h3>Get In Touch</h3>
+						<h3>Escríbeme</h3>
 						<form action="#">
 							<div class="row form-group">
 								<div class="col-md-12">
-									<label for="fname">Your Name</label>
+									<label for="fname">Nombre</label>
 									<input type="text" id="fname" class="form-control">
 								</div>
 
@@ -67,7 +67,7 @@
 
 							<div class="row form-group">
 								<div class="col-md-12">
-									<label for="message">Message</label>
+									<label for="message">Mensaje</label>
 									<textarea name="message" id="message" cols="30" rows="10" class="form-control"></textarea>
 								</div>
 							</div>
@@ -82,17 +82,16 @@
 		</div>
 	</div>
 
-	<div id="started">
-		<div class="container">
-			<div class="row animate-box">
-				<div class="col-md-8 col-md-offset-2 text-center heading">
-					<h2>Get Started</h2>
-					<p>texto de ejemplo lorem ipsum
-					</p>
-					<p><a href="#" class="btn btn-primary">Let's work together</a></p>
+	<div class="started">
+			<div class="container">
+				<div class="row animate-box">
+					<div class="col-md-8 col-md-offset-2 text-center heading">
+						<h2>Comencemos</h2>
+						<p>¿Te interesa comenzar algún trabajo conmigo?</p>
+						<p><a href="mailto:camilayohanabc@gmail.com" class="btn btn-primary">Trabaja conmigo</a></p>
+					</div>
 				</div>
 			</div>
 		</div>
-	</div>
 
 <?php get_footer() ?>
