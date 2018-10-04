@@ -3,17 +3,17 @@
 <body>
 	<!-- <div class="loader"></div> -->
 	<div id="page_">
-		<nav class="nav" role="navigation">
+	<nav class="nav" role="navigation">
 			<div class="container">
 				<div class="top-logo">
-					<div id="logo"><a href="index.html">.</a></div>
+					<div id="logo"><a href="index.html">CamihYohana</a></div>
 				</div>
 				<div class="top-menu menu-1 text-center">
 					<ul>
-						<li><a href="work.html">Lo que hago</a></li>
-						<li><a href="about.html">Acerca de mi</a></li>
-						<li><a href="#">Blog</a></li>
-						<li><a href="contact.html">Contacto</a></li>
+						<li><a href="work.php">Lo que hago</a></li>
+						<li><a href="about.php">Acerca de mi</a></li>
+						<li><a href="blog.php">Blog</a></li>
+						<li><a href="page-contact.php">Contacto</a></li>
 					</ul>
 				</div>
 				<div class="top-social menu-1 text-right">
@@ -30,7 +30,7 @@
 			<div class="container">
 				<div class="row top-line animate-box">
 					<div class="col-md-7 col-md-push-5 text-left intro">
-						<h2>TExto de ejemplo titulo <span class="highlight">Made with <i class="icon-heart2"></i>
+						<h2><?php the_title() ?><span class="highlight">Made with <i class="fas fa-heart"></i>
 								by <a href="http://freehtml5.co">CamihYohana</a> </span></h2>
 					</div>
 

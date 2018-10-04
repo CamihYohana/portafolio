@@ -11,7 +11,7 @@
 	<meta name="description" content="Camila's portfolio | Web Design, Design & Photgraphy" />
 	<meta name="keywords" content="design, designer, photgraphy, analogue, 35mm" />
 	<meta name="author" content="CamihYohana" />
-	<link rel="stylesheet" href="assets/css/style.css">
+	
 	<!-- <link rel="stylesheet" href="assets/css/icomoon.css"> -->
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/solid.css" integrity="sha384-VGP9aw4WtGH/uPAOseYxZ+Vz/vaTb1ehm1bwx92Fm8dTrE+3boLfF1SpAtB1z7HW"
 	 crossorigin="anonymous">
@@ -21,6 +21,7 @@
 	 crossorigin="anonymous">
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/fontawesome.css" integrity="sha384-1rquJLNOM3ijoueaaeS5m+McXPJCGdr5HcA03/VHXxcp2kX2sUrQDmFc3jR5i/C7"
 	 crossorigin="anonymous">
+	 <link rel="stylesheet" href="assets/css/style.css">
 	<!--[if lt IE 9]>
 	<script src="js/respond.min.js"></script>
 	<![endif]-->
