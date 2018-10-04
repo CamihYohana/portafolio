@@ -13,7 +13,7 @@
 						<li><a href="work.php">Lo que hago</a></li>
 						<li><a href="about.php">Acerca de mi</a></li>
 						<li><a href="blog.php">Blog</a></li>
-						<li><a href="page-contact.php">Contacto</a></li>
+						<li><a href="contact.php">Contacto</a></li>
 					</ul>
 				</div>
 				<div class="top-social menu-1 text-right">
@@ -37,12 +37,12 @@
 				</div>
 				<div class="row">
 					<div class="col-md-4 text-center animate-box">
-						<a class="work" href="portfolio_detail.html">
+						<a class="work" href="portfolio_detail.php">
 							<div class="work-grid" style="background-image:url(assets/images/project-1.jpg);">
 								<div class="inner">
 									<div class="desc">
-										<h3>Folding Light</h3>
-										<span class="cat">Branding</span>
+										<h3>Arroz integral</h3>
+										<span class="cat">Diseño</span>
 									</div>
 								</div>
 							</div>
@@ -53,8 +53,8 @@
 							<div class="work-grid" style="background-image:url(assets/images/project-2.jpg);">
 								<div class="inner">
 									<div class="desc">
-										<h3>Power Led Light</h3>
-										<span class="cat">Illustration</span>
+										<h3>Self Brand</h3>
+										<span class="cat">Diseño</span>
 									</div>
 								</div>
 							</div>
@@ -65,8 +65,8 @@
 							<div class="work-grid" style="background-image:url(assets/images/project-3.jpg);">
 								<div class="inner">
 									<div class="desc">
-										<h3>Elephant Origami</h3>
-										<span class="cat">Logo</span>
+										<h3>Curanipe Surf</h3>
+										<span class="cat">Diseño Web</span>
 									</div>
 								</div>
 							</div>
@@ -77,8 +77,8 @@
 							<div class="work-grid" style="background-image:url(assets/images/project-4.jpg);">
 								<div class="inner">
 									<div class="desc">
-										<h3>Electric Kick Scooter</h3>
-										<span class="cat">Web Design</span>
+										<h3>Hidrofugal</h3>
+										<span class="cat">Diseño Web</span>
 									</div>
 								</div>
 							</div>
@@ -89,8 +89,8 @@
 							<div class="work-grid" style="background-image:url(assets/images/project-5.jpg);">
 								<div class="inner">
 									<div class="desc">
-										<h3>Shark Diver</h3>
-										<span class="cat">Branding</span>
+										<h3>Aline</h3>
+										<span class="cat">Fotografía</span>
 									</div>
 								</div>
 							</div>
@@ -101,44 +101,8 @@
 							<div class="work-grid" style="background-image:url(assets/images/project-6.jpg);">
 								<div class="inner">
 									<div class="desc">
-										<h3>Objekte Unserer Tage Berlin</h3>
-										<span class="cat">Logo</span>
-									</div>
-								</div>
-							</div>
-						</a>
-					</div>
-					<div class="col-md-4 text-center animate-box">
-						<a class="work" href="portfolio_detail.html">
-							<div class="work-grid" style="background-image:url(assets/images/project-7.jpg);">
-								<div class="inner">
-									<div class="desc">
-										<h3>Aloha Shirt</h3>
-										<span class="cat">Web Design</span>
-									</div>
-								</div>
-							</div>
-						</a>
-					</div>
-					<div class="col-md-4 text-center animate-box">
-						<a class="work" href="portfolio_detail.html">
-							<div class="work-grid" style="background-image:url(assets/images/project-8.jpg);">
-								<div class="inner">
-									<div class="desc">
-										<h3>Olafur Elliasson Waterfall Versailles</h3>
-										<span class="cat">Branding</span>
-									</div>
-								</div>
-							</div>
-						</a>
-					</div>
-					<div class="col-md-4 text-center animate-box">
-						<a class="work" href="portfolio_detail.html">
-							<div class="work-grid" style="background-image:url(assets/images/project-9.jpg);">
-								<div class="inner">
-									<div class="desc">
-										<h3>Hand Care</h3>
-										<span class="cat">Logo</span>
+										<h3>Grismalva</h3>
+										<span class="cat">Fotografía</span>
 									</div>
 								</div>
 							</div>
@@ -152,7 +116,7 @@
 			<div class="container">
 				<div class="row animate-box">
 					<div class="col-md-8 col-md-offset-2 text-center heading">
-						<h2>A little about me</h2>
+						<h2>Sobre Mí</h2>
 					</div>
 				</div>
 				<div class="row">
@@ -161,17 +125,14 @@
 							<div class="author-inner animate-box" style="background-image: url(assets/images/person3.jpg);">
 							</div>
 							<div class="desc animate-box">
-								<span>Web Designer &amp; Developer</span>
-								<h3>Mike Airways</h3>
-								<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the
-									blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language
-									ocean.</p>
+								<span>Diseñadora Gráfica &amp; Diseñadora UI</span>
+								<h3>Camila Yohana Badillo Carroza</h3>
+								<p></p>
 								<p><a href="about.html" class="btn btn-primary btn-outline">Learn More</a></p>
 								<ul class="social-icons">
-									<li><a href="#"><i class="icon-facebook"></i></a></li>
-									<li><a href="#"><i class="icon-twitter"></i></a></li>
-									<li><a href="#"><i class="icon-dribbble"></i></a></li>
-									<li><a href="#"><i class="icon-github"></i></a></li>
+									<li><a href="mailto:camilayohanabc@gmail.com"><i class="fas fa-envelope"></i></a></li>
+									<li><a href="http://www.twitter.com/CamihYohana"><i class="fab fa-twitter"></i></a></li>
+									<li><a href="http://www.behance.net/CamihYohana"><i class="fab fa-behance"></i></a></li>
 								</ul>
 							</div>
 						</div>
@@ -180,13 +141,13 @@
 			</div>
 		</div>
 
-		<div id="started">
+		<div class="started">
 			<div class="container">
 				<div class="row animate-box">
 					<div class="col-md-8 col-md-offset-2 text-center heading">
-						<h2>Get Started</h2>
-						<p>Texro de ejemplo lorem ipsum</p>
-						<p><a href="#" class="btn btn-primary">Let's work together</a></p>
+						<h2>Comencemos</h2>
+						<p>¿Te interesa comenzar algún trabajo conmigo?</p>
+						<p><a href="mailto:camilayohanabc@gmail.com" class="btn btn-primary">Trabaja conmigo</a></p>
 					</div>
 				</div>
 			</div>

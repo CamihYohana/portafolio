@@ -16,15 +16,3 @@ foreach($files as $file) {
 	require_once $file;
 }
 
-
-/**
- * Check Minimum WP version
- * This theme only works in WordPress 4.8 or later.
- *
- * @return  void
- * @since   1.0
- */
-if ( version_compare( $GLOBALS['wp_version'], $theme_options['wp_min_version'], '<' ) ) {
-	require get_template_directory() . '/functions/back-compat.php';
-	return;
-}

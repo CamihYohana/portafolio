@@ -1,6 +1,8 @@
 import $ from 'jquery';
 window.$ = window.jQuery = $;
 
+
+
 $(document).ready(function () {
-	alert('holaa');
+	console.log('App start')
 });

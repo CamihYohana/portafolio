@@ -83,7 +83,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 window.$ = window.jQuery = __WEBPACK_IMPORTED_MODULE_0_jquery___default.a;
 
 __WEBPACK_IMPORTED_MODULE_0_jquery___default()(document).ready(function () {
-	alert('holaa');
+	console.log('App start');
 });
 
 /***/ }),
