@@ -57,9 +57,8 @@
 
 					<div class="testimony animate-box">
 						<blockquote>
-							<p>&ldquo;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live
-								the blind texts. Separated they live in Bookmarksgrove&rdquo;</p>
-							<p class="person"><cite>&mdash; Job Smith</cite> CEO and Founder</p>
+							<p>Aquí va una cita</p>
+							<p class="person"><cite>&mdash; Nombre de quien lo escribió</cite> CEO and Founder</p>
 						</blockquote>
 					</div>
 					<p class="animate-box"><img src="images/project-5.jpg" class="img-responsive" alt=""></p>
@@ -82,18 +81,17 @@
 		</div>
 	</div>
 
-	<div id="started">
-		<div class="container">
-			<div class="row animate-box">
-				<div class="col-md-8 col-md-offset-2 text-center heading">
-					<h2>Get Started</h2>
-					<p>We create beautiful themes for your site behind the word mountains, far from the countries Vokalia and
-						Consonantia, there live the blind texts.</p>
-					<p><a href="#" class="btn btn-primary">Let's work together</a></p>
+	<div class="started">
+			<div class="container">
+				<div class="row animate-box">
+					<div class="col-md-8 col-md-offset-2 text-center heading">
+						<h2>Comencemos</h2>
+						<p>¿Te interesa comenzar algún trabajo conmigo?</p>
+						<p><a href="mailto:camilayohanabc@gmail.com" class="btn btn-primary">Trabaja conmigo</a></p>
+					</div>
 				</div>
 			</div>
 		</div>
-	</div>
 
 	
 <?php get_footer() ?>

@@ -153,46 +153,4 @@
 			</div>
 		</div>
 
-		<footer id="footer" role="contentinfo">
-			<div class="container">
-				<div class="row copyright">
-					<div class="col-md-12 text-center">
-						<p>
-							<small class="block">TExto de ejemplo</small>
-							<small class="block">Designed by <a href="http://freehtml5.co/" target="_blank">Ejemplo</a> imagenes <a href="http://unsplash.co/"
-								 target="_blank">Unsplash</a> &amp; <a href="http://blog.gessato.com/" target="_blank">Gessato</a></small>
-						</p>
-
-						<ul class="social-icons">
-							<li><a href="#"><i class="icon-twitter"></i></a></li>
-							<li><a href="#"><i class="icon-facebook"></i></a></li>
-							<li><a href="#"><i class="icon-linkedin"></i></a></li>
-							<li><a href="#"><i class="icon-dribbble"></i></a></li>
-						</ul>
-
-					</div>
-				</div>
-
-			</div>
-		</footer>
-	</div>
-
-	<div class="gototop js-top">
-		<a href="#" class="js-gotop"><i class="icon-arrow-up"></i></a>
-	</div>
-
-	<!-- jQuery -->
-	<script src="https://unpkg.com/jquery@3.3.1/dist/jquery.min.js"></script>
-	<!-- <script src="assets/js/jquery.min.js"></script> -->
-	<!-- jQuery Easing -->
-	<!-- <script src="js/jquery.easing.1.3.js"></script> -->
-	<!-- Bootstrap -->
-	<!-- <script src="js/bootstrap.min.js"></script> -->
-	<!-- Waypoints -->
-	<!-- <script src="js/jquery.waypoints.min.js"></script> -->
-	<!-- Main -->
-
-
-</body>
-
 <?php get_footer() ?>
