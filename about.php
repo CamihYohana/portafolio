@@ -3,36 +3,28 @@
 <body>
 
 <div id="page">
-	<nav class="nav" role="navigation">
-		<div class="container">
-			<div class="top-logo">
-				<div id="logo"><a href="index.html">Shift</a></div>
+<nav class="nav" role="navigation">
+			<div class="container">
+				<div class="top-logo">
+					<div id="logo"><a href="index.html">CamihYohana</a></div>
+				</div>
+				<div class="top-menu menu-1 text-center">
+					<ul>
+						<li><a href="work.php">Lo que hago</a></li>
+						<li><a href="about.php">Acerca de mi</a></li>
+						<li><a href="blog.php">Blog</a></li>
+						<li><a href="contact.php">Contacto</a></li>
+					</ul>
+				</div>
+				<div class="top-social menu-1 text-right">
+					<ul class="social">
+						<li><a href="#"><i class="icon-twitter"></i></a></li>
+						<li><a href="#"><i class="icon-instagram"></i></a></li>
+						<li><a href="#"><i class="icon-github"></i></a></li>
+					</ul>
+				</div>
 			</div>
-			<div class="top-menu menu-1 text-center">
-				<ul>
-					<li><a href="work.html">Work</a></li>
-					<li class="active"><a href="about.html">Profile</a></li>
-					<li class="has-dropdown">
-						<a href="#">Dropdown</a>
-						<ul class="dropdown">
-							<li><a href="#">Web Design</a></li>
-							<li><a href="#">eCommerce</a></li>
-							<li><a href="#">Branding</a></li>
-							<li><a href="#">API</a></li>
-						</ul>
-					</li>
-					<li><a href="contact.html">Contact</a></li>
-				</ul>
-			</div>
-			<div class="top-social menu-1 text-right">
-				<ul class="social">
-					<li><a href="#"><i class="icon-twitter"></i></a></li>
-					<li><a href="#"><i class="icon-dribbble"></i></a></li>
-					<li><a href="#"><i class="icon-github"></i></a></li>
-				</ul>
-			</div>
-		</div>
-	</nav>
+		</nav>
 
 	<div id="author">
 		<div class="container">
@@ -47,7 +39,7 @@
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2">
 					<div class="author">
-						<div class="author-inner animate-box" style="background-image: url(images/person3.jpg);">
+						<div class="author-inner animate-box" style="background-image: url(<?php echo get_template_directory_uri();?>images/person3.jpg);">
 						</div>
 						<div class="desc animate-box">
 						<span>Diseñadora Gráfica &amp; Diseñadora UI</span>

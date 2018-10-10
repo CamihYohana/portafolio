@@ -4,7 +4,6 @@
 	<meta charset="<?php bloginfo('charset') ?>">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<link rel="profile" href="http://gmpg.org/xfn/11">
 	<?php get_template_part('_includes/iOS', 'icons') ?>
 	<?php wp_head() ?>
 	<title>Portafolio Camila Badillo</title>
@@ -21,7 +20,7 @@
 	 crossorigin="anonymous">
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/fontawesome.css" integrity="sha384-1rquJLNOM3ijoueaaeS5m+McXPJCGdr5HcA03/VHXxcp2kX2sUrQDmFc3jR5i/C7"
 	 crossorigin="anonymous">
-	 <link rel="stylesheet" href="assets/css/app.css">
+	 <link rel="stylesheet" href=""<?php echo get_template_directory_uri();?>/assets/css/app.css>
 	<!--[if lt IE 9]>
 	<script src="js/respond.min.js"></script>
 	<![endif]-->

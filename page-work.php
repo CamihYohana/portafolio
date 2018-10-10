@@ -8,10 +8,10 @@
 				</div>
 				<div class="top-menu menu-1 text-center">
 					<ul>
-						<li><a href="work.php">Lo que hago</a></li>
-						<li><a href="about.php">Acerca de mi</a></li>
+						<li><a href="pagework.php">Lo que hago</a></li>
+						<li><a href="page-about.php">Acerca de mi</a></li>
 						<li><a href="blog.php">Blog</a></li>
-						<li><a href="contact.php">Contacto</a></li>
+						<li><a href="page-contact.php">Contacto</a></li>
 					</ul>
 				</div>
 				<div class="top-social menu-1 text-right">
