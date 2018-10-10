@@ -5,4 +5,4 @@ Escogí hacer mi portafolio por la necesidad de mostrar mi trabajo y las áreas 
 
 _El archivo de la base de datos va estar dentro de este repositorio, pero el resto de los archivos corresponden sólo al tema utilizado, por lo que hay que tener instalado un wordpress en su local para poder visualizar._
 
-Se debe ingresar al sitio
+Se debe ingresar al sitio prev.camihyohana.com
