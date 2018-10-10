@@ -48,7 +48,7 @@
 					</div>
 					<div class="col-md-4 text-center animate-box">
 						<a class="work" href="portfolio_detail.html">
-							<div class="work-grid" style="background-image:url(images/project-2.jpg);">
+							<div class="work-grid" style="background-image:url(<?php echo get_template_directory_uri();?>/images/project-2.jpg);">
 								<div class="inner">
 									<div class="desc">
 										<h3>Self Brand</h3>
@@ -60,7 +60,7 @@
 					</div>
 					<div class="col-md-4 text-center animate-box">
 						<a class="work" href="portfolio_detail.html">
-							<div class="work-grid" style="background-image:url(images/project-3.jpg);">
+							<div class="work-grid" style="background-image:url(<?php echo get_template_directory_uri();?>/images/project-3.jpg);">
 								<div class="inner">
 									<div class="desc">
 										<h3>Curanipe Suef</h3>
@@ -72,7 +72,7 @@
 					</div>
 					<div class="col-md-4 text-center animate-box">
 						<a class="work" href="portfolio_detail.html">
-							<div class="work-grid" style="background-image:url(images/project-4.jpg);">
+							<div class="work-grid" style="background-image:url(<?php echo get_template_directory_uri();?>/images/project-4.jpg);">
 								<div class="inner">
 									<div class="desc">
 										<h3>Hidrofugal</h3>
@@ -84,7 +84,7 @@
 					</div>
 					<div class="col-md-4 text-center animate-box">
 						<a class="work" href="portfolio_detail.html">
-							<div class="work-grid" style="background-image:url(images/project-5.jpg);">
+							<div class="work-grid" style="background-image:url(<?php echo get_template_directory_uri();?>/images/project-5.jpg);">
 								<div class="inner">
 									<div class="desc">
 										<h3>Aline</h3>
@@ -96,7 +96,7 @@
 					</div>
 					<div class="col-md-4 text-center animate-box">
 						<a class="work" href="portfolio_detail.html">
-							<div class="work-grid" style="background-image:url(images/project-6.jpg);">
+							<div class="work-grid" style="background-image:url(<?php echo get_template_directory_uri();?>/images/project-6.jpg);">
 								<div class="inner">
 									<div class="desc">
 										<h3>Grismalva</h3>

@@ -45,8 +45,8 @@
 				</div>
 				<div class="row">
 					<div class="col-md-8 col-md-offset-2">
-						<p class="animate-box"><img src="images/bonita.jpg" class="img-responsive" alt=""></p>
-						<p class="animate-box"><img src="images/bonita-pack.jpg" class="img-responsive" alt=""></p>
+						<p class="animate-box"><img src="<?php echo get_template_directory_uri();?>/images/bonita.jpg" class="img-responsive" alt=""></p>
+						<p class="animate-box"><img src="<?php echo get_template_directory_uri();?>/images/bonita-pack.jpg" class="img-responsive" alt=""></p>
 
 						<div class="testimony animate-box">
 							<blockquote>
